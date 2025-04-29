@@ -77,7 +77,7 @@ int kristinaPromotion= (kristina/procent);
 int kristinaSalary= kristina+kristinaPromotion;
 out.println("Маша теперь получает "+mashaSalary+ " рублей. Годовой доход вырос  на " +mashaPromotion+ " .Денис" +
         " теперь получает " +denisSalary+ " рублей. Годовой доход вырос на " +denisPromotion+ " . Кристина" +
-        "теперю получает " +kristinaSalary+ " рублей. Годовой доход вырос на " +kristinaPromotion);
+        "теперь получает " +kristinaSalary+ " рублей. Годовой доход вырос на " +kristinaPromotion);
 
 
     }
